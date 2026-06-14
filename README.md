@@ -214,8 +214,8 @@ streamlit run app.py
 ## Author
 
 **Sadashiva Sahoo**
-MCA 1st Year Student
-Odisha University of Technology and Research (OUTR), Bhubaneswar
+A MCA 1st Year Student
+of Odisha University of Technology and Research (OUTR), Bhubaneswar
 
 ---
 
